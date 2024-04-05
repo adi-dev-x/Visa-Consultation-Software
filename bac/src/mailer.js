@@ -2,8 +2,8 @@ const nodemailer = require('nodemailer');
 const Mailgen = require('mailgen');
 
 //const { EMAIL, PASSWORD } = require('../env.js')
-const EMAIL='adithyanunni258@gmail.com'
-const PASSWORD='jgkxtnpzazdhwlvk'
+const EMAIL=''
+const PASSWORD=''
 class mailer{
     async getbill  (req, res) {
 
